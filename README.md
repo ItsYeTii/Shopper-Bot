@@ -1,12 +1,5 @@
-<img src="resources/new_logo.gif">
-
-[![Discord](https://img.shields.io/discord/863863008329596968?color=%237289da%20&label=FOR%20SUPPORT%20AND%20FAQs%20%20%7C%20JOIN%20DISCORD&style=for-the-badge)](https://discord.gg/wkznBbgBFD)
-
-<br>
-
 * **_Works with all/any of the Browsers_**
-
-```
+* 
 I took bits from best open and closed sourced bots and made this simple bot.
 Please star my repo if this contribution helped you ! Its FREEE !
 
@@ -14,13 +7,7 @@ Please star my repo if this contribution helped you ! Its FREEE !
 
 
 Please Join Support & FAQ Discord if you have questions.
-
-```
-[<img src="https://raw.githubusercontent.com/kkapuria3/FREE-Amazon-BUY-Bot/main/resources/new_logo1.gif" width="350"/>](https://github.com/kkapuria3/FREE-Amazon-BUY-Bot#readme) [<img src="https://raw.githubusercontent.com/kkapuria3/Telegram-To-Discord-Forward-Bot/master/resources/new_logo.gif" width="350"/>](https://github.com/kkapuria3/Telegram-To-Discord-Forward-Bot#readme)
-
-# BestBuy Bot — Open Source GPU/PS5/Xbox Bot
-
-## Description
+ Description
 
 BestBuy Bot is an Add to cart and Auto Checkout Bot. This auto buying bot can search an item repeatedly on the item page using one keyword. Once the desired item is available it can add to cart and checkout very fast. This auto purchasing BestBuy Bot can work on Firefox Browser so it can run in all Operating Systems. It can run for multiple items simultaneously.
 
